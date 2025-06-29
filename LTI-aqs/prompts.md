@@ -103,3 +103,8 @@ Considerando que no tengo mucho conocimiento sobre metodologías ágiles y como 
 ```
 Considerando las User Stories definidas y el backlog v2 como el que vamos a usar, genera los tickets de trabajo para user storie 1, y detallalo como si fuera un reunión de planificación.
 ```
+
+# Comentarios finales del ejercicio
+* No conozco mucho sobre el uso de metodologías agiles, y se me hizo muy complicado por ir resolviendo los puntos pedidos, porque no sabía muy bien que pedir ni que esperar de la IA en su resultado.
+* Me apoye en Chat GPT (free) para ir resolviendo dudas sobre el tema, de modo de no ir "ensuciando" el chat en donde estaba realizando las tareas.
+* Este ejercicio me ayudó a explorar un mundo desconocido para mi, que son las metodologías agiles, las cuales nunca practiqué, porque en donde trabajo no son requeridas.
