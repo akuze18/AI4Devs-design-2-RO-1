@@ -1,72 +1,72 @@
-# Historia de Usuario 1: Visualización de Arquitectura
-Como Product Manager,  
-quiero visualizar el diagrama de arquitectura del sistema,  
-para que pueda entender cómo se conectan los componentes principales.
+# Historia de Usuario 1: Gestión de Usuarios
+Como administrador del sistema,  
+quiero gestionar los usuarios del sistema,  
+para que pueda asignar roles y permisos adecuados según sus responsabilidades.
 
 # Criterios de Aceptación:
-* El diagrama debe incluir todos los componentes principales del sistema.
-* Debe ser accesible desde el repositorio en formato PNG.
-* Debe incluir una breve descripción de cada componente.
+* Debe permitir agregar, editar y eliminar usuarios.
+* Debe incluir la asignación de roles y permisos.
+* Debe registrar un historial de cambios realizados.
 
 # Notas Adicionales:
-* Utilizar el archivo `diagrama-arquitectura.png` como referencia.
+* Considerar la integración con un sistema de autenticación externo.
 
 ---
 
-# Historia de Usuario 2: Análisis de Entidades
-Como Business Analyst,  
-quiero acceder al modelo de entidades del sistema,  
-para que pueda identificar las relaciones entre los datos y definir requisitos funcionales.
+# Historia de Usuario 2: Visualización de Reportes
+Como usuario regular,  
+quiero visualizar reportes personalizados,  
+para que pueda analizar datos relevantes para mi área de trabajo.
 
 # Criterios de Aceptación:
-* El modelo debe estar disponible en formato gráfico y texto.
-* Debe incluir relaciones entre entidades y atributos clave.
-* Debe ser accesible desde el archivo `entidades.md` y `diagrama-er.png`.
+* Debe permitir seleccionar filtros y parámetros para los reportes.
+* Los reportes deben ser exportables en formatos como PDF y Excel.
+* Debe incluir gráficos y tablas para facilitar la interpretación.
 
 # Notas Adicionales:
-* Considerar que el modelo puede evolucionar durante el desarrollo.
+* Los reportes deben actualizarse en tiempo real según los datos disponibles.
 
 ---
 
-# Historia de Usuario 3: Casos de Uso Iniciales
-Como Product Manager,  
-quiero revisar los casos de uso iniciales del sistema,  
-para que pueda priorizar las funcionalidades clave para el desarrollo.
+# Historia de Usuario 3: Configuración del Sistema
+Como administrador del sistema,  
+quiero configurar las opciones generales del sistema,  
+para que pueda adaptarlo a las necesidades específicas de la organización.
 
 # Criterios de Aceptación:
-* Los casos de uso deben estar documentados en el archivo `casos-uso.md`.
-* Deben incluir objetivos claros y pasos detallados.
-* Deben estar alineados con los diagramas de arquitectura y entidades.
+* Debe permitir modificar parámetros como idioma, zona horaria y notificaciones.
+* Debe incluir validaciones para evitar configuraciones incorrectas.
+* Debe registrar un historial de cambios realizados.
 
 # Notas Adicionales:
-* Los casos de uso deben ser revisados y aprobados antes de la implementación.
+* La configuración debe ser accesible solo para usuarios con permisos administrativos.
 
 ---
 
-# Historia de Usuario 4: Diagrama C4 Nivel 3
-Como Business Analyst,  
-quiero analizar el diagrama C4 de nivel 3,  
-para que pueda entender las interacciones detalladas entre los componentes del sistema.
+# Historia de Usuario 4: Notificaciones Automáticas
+Como usuario regular,  
+quiero recibir notificaciones automáticas sobre eventos importantes,  
+para que pueda estar informado sin necesidad de revisar manualmente el sistema.
 
 # Criterios de Aceptación:
-* El diagrama debe estar disponible en formato gráfico (`diagrama-c4-nivel3.png`).
-* Debe incluir explicaciones sobre las interacciones entre componentes.
-* Debe ser accesible desde el archivo `diagrama-c4.md`.
+* Las notificaciones deben ser configurables según preferencias del usuario.
+* Deben enviarse por correo electrónico y/o en el sistema.
+* Deben incluir un resumen claro del evento.
 
 # Notas Adicionales:
-* Este diagrama será clave para definir requisitos técnicos.
+* Considerar la integración con servicios de mensajería instantánea.
 
 ---
 
-# Historia de Usuario 5: Documentación General
-Como Product Manager,  
-quiero acceder a la documentación general del proyecto,  
-para que pueda comunicar el alcance y objetivos del sistema a los stakeholders.
+# Historia de Usuario 5: Auditoría de Actividades
+Como administrador del sistema,  
+quiero acceder a un registro de auditoría de actividades,  
+para que pueda monitorear el uso del sistema y detectar posibles problemas.
 
 # Criterios de Aceptación:
-* La documentación debe estar consolidada en el archivo `readme.md`.
-* Debe incluir una descripción del sistema, objetivos, y enlaces a recursos clave.
-* Debe ser fácil de entender para personas no técnicas.
+* Debe registrar todas las acciones realizadas por los usuarios.
+* Debe incluir detalles como fecha, hora, usuario y acción realizada.
+* Debe permitir buscar y filtrar registros por diferentes criterios.
 
 # Notas Adicionales:
-* Actualizar la documentación conforme avance el proyecto.
+* La auditoría debe ser accesible solo para usuarios con permisos administrativos.
