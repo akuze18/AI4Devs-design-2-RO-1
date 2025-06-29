@@ -84,3 +84,12 @@ Perfecto, entonces respondo las preguntas para proceder a estructurar el backlog
 4. No hay ninguna metodología en especifico, utiliza la que consideres más adecuada
 5. Yo me encargaré de validar las prioridades
 6. La documentación necesaria está en este proyecto
+
+## Prompt 5: Backlog del producto v2
+Considerando las historias de usuario definidas haz lo siguiente:
+1. Prioriza las user stories, utiliza la escala de poca prioridad a alta prioridad, valorizala como consideres pertinente.
+2. Divide las historias de usuario en tareas pequeñas, sobre todo cuando son muy grandes.
+3. Estima el esfuerzo de cada tarea, utilizando la ténica de t-shirt size-
+4. Define las dependencia de las historias de usuario, si corresponden.
+5. Dame el listado por order de prioridad, indicando las tareas por historia, esfuerzo estimado y dependencias si aplican.
+Realiza todas estas labores juntas entregame el listado final
