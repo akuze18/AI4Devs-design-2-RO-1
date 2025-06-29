@@ -93,3 +93,7 @@ Considerando las historias de usuario definidas haz lo siguiente:
 4. Define las dependencia de las historias de usuario, si corresponden.
 5. Dame el listado por order de prioridad, indicando las tareas por historia, esfuerzo estimado y dependencias si aplican.
 Realiza todas estas labores juntas entregame el listado final
+
+## Comentarios sobre los prompt usados para generación de backlog de producto  
+Considerando que no tengo mucho conocimiento sobre metodologías ágiles y como es su funcionamiento, ambos prompt han generado cosas diferentes, y los resultados nos entregan información diferente, no considero que una sea mejor que otra, ya que dependerá de como se quiera trabajar, ya que una da el orden de los sprints, mientras que la otra hace un deglose granular, para poder hacer la ordenación en sprints posteriormente. Para mí el segundo prompt me dio un resultado que es más utilizable, ya que deja el paso a que un equipo pueda ordenar y priorizar segun sus propios criterios.
+
