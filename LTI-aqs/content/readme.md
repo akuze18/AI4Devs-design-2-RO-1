@@ -4,7 +4,7 @@ Este repositorio contiene la documentación completa del proceso de diseño y de
 
 ## Índice de Fases y Artefactos
 
-- [analisi](./analisis.md): **Fase 1 – Investigación y Análisis**
+- [analisis](./analisis.md): **Fase 1 – Investigación y Análisis**
   - Descripción del producto, análisis de competencia, propuesta de valor y Lean Canvas.
 
 - [casos-uso](./casos-uso.md): **Fase 2 – Casos de Uso**
