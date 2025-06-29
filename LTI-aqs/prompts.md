@@ -26,3 +26,8 @@ Plantea diferentes User Stories que pudieran darse para este producto, mínimo 2
 
 El resultado se guardará en el archivo UserStories-aqs.md
 ```
+
+## Prompt 2:
+```
+Esto no es lo que esperaba. Las historias de usuario que esperaba, era sobre cuestiones que un usuario regular o administrativo del sistema pudiera tener. Luego desde los enfoques de Product Manager y Business Analyst, se pudieran aterrizar estas historias, y las entregaras en el formato indicado, vuelve a intentarlo por favor.
+```
