@@ -76,7 +76,8 @@ Preguntas para realizar un buen trabajo:
 
 Con estas respuestas, puedo ayudarte a estructurar el backlog de manera más precisa. ¿Cómo deseas proceder?
 
-## Prompt 4: Backlog del producto
+## Prompt 4: Backlog del producto (v1)
+```
 Perfecto, entonces respondo las preguntas para proceder a estructurar el backlog considerando las historias de usuario ya definidas.  
 1. El objetivo del proyecto está en la fase inicial MVP.
 2. Contamos con 4 semanas para la entrega.
@@ -84,8 +85,9 @@ Perfecto, entonces respondo las preguntas para proceder a estructurar el backlog
 4. No hay ninguna metodología en especifico, utiliza la que consideres más adecuada
 5. Yo me encargaré de validar las prioridades
 6. La documentación necesaria está en este proyecto
-
-## Prompt 5: Backlog del producto v2
+```
+## Prompt 5: Backlog del producto (v2)
+```
 Considerando las historias de usuario definidas haz lo siguiente:
 1. Prioriza las user stories, utiliza la escala de poca prioridad a alta prioridad, valorizala como consideres pertinente.
 2. Divide las historias de usuario en tareas pequeñas, sobre todo cuando son muy grandes.
@@ -93,7 +95,11 @@ Considerando las historias de usuario definidas haz lo siguiente:
 4. Define las dependencia de las historias de usuario, si corresponden.
 5. Dame el listado por order de prioridad, indicando las tareas por historia, esfuerzo estimado y dependencias si aplican.
 Realiza todas estas labores juntas entregame el listado final
-
+```
 ## Comentarios sobre los prompt usados para generación de backlog de producto  
 Considerando que no tengo mucho conocimiento sobre metodologías ágiles y como es su funcionamiento, ambos prompt han generado cosas diferentes, y los resultados nos entregan información diferente, no considero que una sea mejor que otra, ya que dependerá de como se quiera trabajar, ya que una da el orden de los sprints, mientras que la otra hace un deglose granular, para poder hacer la ordenación en sprints posteriormente. Para mí el segundo prompt me dio un resultado que es más utilizable, ya que deja el paso a que un equipo pueda ordenar y priorizar segun sus propios criterios.
 
+## Prompt 6: Generar Tickets
+```
+Considerando las User Stories definidas y el backlog v2 como el que vamos a usar, genera los tickets de trabajo para user storie 1, y detallalo como si fuera un reunión de planificación.
+```
