@@ -77,7 +77,7 @@ Preguntas para realizar un buen trabajo:
 Con estas respuestas, puedo ayudarte a estructurar el backlog de manera más precisa. ¿Cómo deseas proceder?
 
 ## Prompt 4: Backlog del producto
-Perfecto, entonces respondo las preguntas para proceder a estructurar el backlog.  
+Perfecto, entonces respondo las preguntas para proceder a estructurar el backlog considerando las historias de usuario ya definidas.  
 1. El objetivo del proyecto está en la fase inicial MVP.
 2. Contamos con 4 semanas para la entrega.
 3. Se utilizará Jira para la gestión del proyecto

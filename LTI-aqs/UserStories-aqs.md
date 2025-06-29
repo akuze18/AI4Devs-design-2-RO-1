@@ -70,3 +70,59 @@ para que pueda monitorear el uso del sistema y detectar posibles problemas.
 
 # Notas Adicionales:
 * La auditoría debe ser accesible solo para usuarios con permisos administrativos.
+
+# Backlog del Producto
+
+## Sprint 1: Configuración Inicial y Gestión de Usuarios
+### Tareas:
+1. Diseñar la interfaz para agregar, editar y eliminar usuarios.
+2. Implementar la lógica de asignación de roles y permisos.
+3. Configurar el historial de cambios para la gestión de usuarios.
+4. Integrar el sistema de autenticación externo.
+
+---
+
+## Sprint 2: Reportes Personalizados y Configuración del Sistema
+### Tareas:
+1. Diseñar la interfaz para la selección de filtros y parámetros de reportes.
+2. Implementar la exportación de reportes en formatos PDF y Excel.
+3. Crear gráficos y tablas para la visualización de datos.
+4. Configurar opciones generales del sistema (idioma, zona horaria, notificaciones).
+5. Implementar validaciones para configuraciones incorrectas.
+6. Registrar el historial de cambios en la configuración del sistema.
+
+---
+
+## Sprint 3: Notificaciones Automáticas
+### Tareas:
+1. Diseñar la interfaz para configurar preferencias de notificaciones.
+2. Implementar el envío de notificaciones por correo electrónico y en el sistema.
+3. Integrar servicios de mensajería instantánea para notificaciones.
+4. Crear un resumen claro de eventos en las notificaciones.
+
+---
+
+## Sprint 4: Auditoría de Actividades
+### Tareas:
+1. Diseñar la interfaz para acceder al registro de auditoría.
+2. Implementar el registro de acciones realizadas por los usuarios (fecha, hora, usuario, acción).
+3. Crear filtros y opciones de búsqueda para el registro de auditoría.
+4. Configurar permisos administrativos para acceder a la auditoría.
+
+---
+
+## Dependencias:
+1. La funcionalidad de "Auditoría de Actividades" depende de la implementación de "Gestión de Usuarios".
+2. Las notificaciones automáticas dependen de la configuración del sistema.
+
+---
+
+## Validación:
+- Las prioridades serán validadas por el responsable del proyecto.
+- Jira será utilizado para gestionar las tareas y sprints.
+- La documentación necesaria está disponible en el proyecto.
+
+---
+
+## Metodología:
+- Se utilizará Scrum para organizar los sprints y realizar revisiones semanales.
