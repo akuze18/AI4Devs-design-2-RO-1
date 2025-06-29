@@ -233,3 +233,51 @@ para que pueda monitorear el uso del sistema y detectar posibles problemas.
 
 ## Metodología:
 - Se utilizará Scrum para organizar los sprints y realizar revisiones semanales.
+
+---
+# Generación de tickets de trabajo: Historia de usuario 1
+## Historia de Usuario 1: Gestión de Usuarios  
+* Como administrador del sistema,
+quiero gestionar los usuarios del sistema,
+para que pueda asignar roles y permisos adecuados según sus responsabilidades.
+
+## Tickets de Trabajo  
+### Ticket 1: Diseñar la interfaz para agregar, editar y eliminar usuarios  
+* Descripción: Crear una interfaz intuitiva que permita al administrador agregar, editar y eliminar usuarios del sistema.
+* Esfuerzo estimado: T-Shirt Size: M
+* Criterios de aceptación:
+   * La interfaz debe ser funcional y fácil de usar.
+   * Debe incluir validaciones para evitar errores en los datos ingresados.
+* Notas adicionales: Considerar la posibilidad de agregar campos personalizados según las necesidades del cliente.
+
+### Ticket 2: Implementar la lógica de asignación de roles y permisos  
+* Descripción: Desarrollar la funcionalidad que permita asignar roles y permisos a los usuarios según sus responsabilidades.
+* Esfuerzo estimado: T-Shirt Size: L
+* Criterios de aceptación:
+   * Los roles y permisos deben ser configurables.
+   * Debe garantizar que los permisos asignados sean aplicados correctamente en todo el sistema.
+* Notas adicionales: Integrar con el sistema de autenticación externo para validar roles.
+
+### Ticket 3: Configurar el historial de cambios para la gestión de usuarios  
+* Descripción: Implementar un registro que almacene los cambios realizados en la gestión de usuarios, como adiciones, ediciones y eliminaciones.
+* Esfuerzo estimado: T-Shirt Size: M
+* Criterios de aceptación:
+   * El historial debe incluir detalles como fecha, hora, usuario que realizó el cambio y tipo de acción.
+   * Debe ser accesible solo para usuarios con permisos administrativos.
+* Notas adicionales: Asegurar que el historial sea exportable en formatos como CSV.
+
+### Ticket 4: Integrar el sistema de autenticación externo  
+*  Descripción: Configurar la integración con un sistema de autenticación externo para gestionar el acceso de usuarios.
+* Esfuerzo estimado: T-Shirt Size: L
+* Criterios de aceptación:
+   * La integración debe ser segura y cumplir con estándares de autenticación.
+   * Debe permitir la sincronización de roles y permisos con el sistema externo.
+*   Notas adicionales: Validar compatibilidad con sistemas como OAuth o LDAP.
+
+## Planificación
+Durante la reunión de planificación, se discutieron los siguientes puntos:
+
+1. Prioridad: Esta historia de usuario tiene alta prioridad, ya que es fundamental para el funcionamiento del sistema.
+2. Dependencias: No hay dependencias directas para esta historia de usuario.
+3. Esfuerzo total: Se estima un esfuerzo combinado de M, L, M, L para los tickets.
+4. Asignación: Los tickets serán distribuidos entre los desarrolladores según su experiencia en diseño de interfaces, lógica de negocio y sistemas de autenticación.
