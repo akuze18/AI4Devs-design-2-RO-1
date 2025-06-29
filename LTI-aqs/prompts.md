@@ -75,3 +75,12 @@ Preguntas para realizar un buen trabajo:
 6. ¿Se requiere documentación adicional para cada tarea del backlog?
 
 Con estas respuestas, puedo ayudarte a estructurar el backlog de manera más precisa. ¿Cómo deseas proceder?
+
+## Prompt 4: Backlog del producto
+Perfecto, entonces respondo las preguntas para proceder a estructurar el backlog.  
+1. El objetivo del proyecto está en la fase inicial MVP.
+2. Contamos con 4 semanas para la entrega.
+3. Se utilizará Jira para la gestión del proyecto
+4. No hay ninguna metodología en especifico, utiliza la que consideres más adecuada
+5. Yo me encargaré de validar las prioridades
+6. La documentación necesaria está en este proyecto
